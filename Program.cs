@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace DELTARobot_Demo
+namespace DELTARobot_Demo.MS
 {
     static class Program
     {

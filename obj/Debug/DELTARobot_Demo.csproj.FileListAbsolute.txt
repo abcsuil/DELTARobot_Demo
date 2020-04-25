@@ -1,0 +1,14 @@
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\bin\Debug\DELTARobot_Demo.exe.config
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\bin\Debug\DELTARobot_Demo.exe
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\bin\Debug\DELTARobot_Demo.pdb
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\obj\Debug\DELTARobot_Demo.csprojAssemblyReference.cache
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\obj\Debug\DELTARobot_Demo.Properties.Resources.resources
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\obj\Debug\DELTARobot_Demo.csproj.GenerateResource.cache
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\obj\Debug\DELTARobot_Demo.exe
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\obj\Debug\DELTARobot_Demo.pdb
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\obj\Debug\DELTARobot_Demo.MS.Form1.resources
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\bin\Debug\HslCommunication.dll
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\bin\Debug\HslControls.dll
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+C:\Users\xiaoy\Desktop\通讯测试\DeltaRobot\DELTARobot_Demo\obj\Debug\DELTARobot_Demo.csproj.CopyComplete

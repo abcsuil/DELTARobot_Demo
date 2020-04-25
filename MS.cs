@@ -7,8 +7,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using HslCommunication.Profinet;
+using HslCommunication;
+using HslCommunication.ModBus;
+using System.Threading;
 
-namespace DELTARobot_Demo
+namespace DELTARobot_Demo.MS
 {
     public partial class Form1 : Form
     {
@@ -16,5 +20,6 @@ namespace DELTARobot_Demo
         {
             InitializeComponent();
         }
+        private ModbusTcpNet DELTARobotClient = null;
     }
 }
